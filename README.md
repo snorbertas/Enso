@@ -1,5 +1,5 @@
 # Enso
-Complete C++ source code for the Enso project.
+Complete C++ source code for the Enso project. (NuGet packages for Allegro library not included, you may use Visual Studio to restore them)
 
 Enso is written on top of the DubuEngine code, which I've made for personal projects on free time. I dropped this project due to the realization that in order to finish it, I will definetly require funding. I lack graphics, art, music, etc. skills to make this into what I envisioned. But mostly importantly I simply don't have the time to take up on this as a hobby. I need to focus on other things, sadly.
 
