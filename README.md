@@ -1,4 +1,6 @@
-# Enso (My first C++ project)
+Note: My next projects will be much tidier, easier to read, more efficient, less buggy, etc. I'm keeping Enso as it is as a reminder to see how much I've improved in the future.
+
+# Enso (My first C++ project) (Unfinished)
 Complete C++ source code for the Enso project. NuGet packages for Allegro library not included, you may use Visual Studio to restore them.
 
 Enso is written on top of the DubuEngine code, which I've made for personal projects on free time. I dropped this project due to the realization that in order to finish it, I will definetly require funding. I lack graphics, art, music, etc. skills to make this into what I envisioned. But most importantly I simply don't have the time to take up on this as a hobby. I need to focus on other things, sadly.
@@ -12,6 +14,4 @@ Some of the main things I've learnt from working on this project:
   - Just don't be lazy to create new files.
   - Create more functions for specific jobs. My nests are sometimes WAY too deep.
   
-I have the option to tidy this up, but honestly it'll feel like a waste of time. I'm dropping this project to work on something simplier, smaller with more learning opportunities. Enso lost alot of learning potential as I've ended up working inside my own API.
-
-My next projects will be much tidier, easier to read, more functional, less buggy. I'm keeping Enso as it is as a reminded to see how much I've improved in the future.
+I have the option to tidy this up, but honestly it'll feel like a waste of time as I have other things to work on. I'm dropping this project to work on something simplier, smaller with more learning opportunities. Enso lost alot of learning potential as I've ended up working inside my own "API".
