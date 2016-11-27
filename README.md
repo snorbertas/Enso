@@ -15,3 +15,6 @@ Some of the main things I've learnt from working on this project:
   - Create more functions for specific jobs. My nests are sometimes WAY too deep.
   
 I have the option to tidy this up, but honestly it'll feel like a waste of time as I have other things to work on. I'm dropping this project to work on something simplier, smaller with more learning opportunities. Enso lost alot of learning potential as I've ended up working inside my own "API".
+
+Here's a lame teaser I made before for Enso: https://www.youtube.com/watch?v=Pw-siiffUJQ
+![Enso](http://puu.sh/svU7w.png)
