@@ -1,6 +1,6 @@
 Note: My next projects will be much tidier, easier to read, more efficient, less buggy, etc. I'm keeping Enso as it is as a reminder to see how much I've improved in the future.
 
-# Enso (My first C++ project) (Unfinished)
+# Enso (My first C++ project)
 Complete C++ source code for the Enso project. NuGet packages for Allegro library not included, you may use Visual Studio to restore them.
 
 Here's a lame teaser I made before for Enso: https://www.youtube.com/watch?v=Pw-siiffUJQ
